@@ -58,6 +58,8 @@ String newAddress = "Summer Walk, Africa";
 		//validating wether address is updated or not
 		Assert.assertEquals(actualAddress,newAddress);
 		System.out.println("Successfully matched");
+		System.out.println("Successfully matched1");
+		System.out.println("Successfully matched2");
 		
 		
 		
